@@ -1,0 +1,4 @@
+*.pth
+results/
+__pycache__/
+testsets/custom/
